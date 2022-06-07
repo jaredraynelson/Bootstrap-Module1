@@ -8,3 +8,19 @@
 .footer{
     background: rgba(149, 117, 205, 0.356);
 }
+
+.row-header{
+    border-top: 1px ridge;
+    /* border-style: solid; */
+    /* border-color: black; */
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.content-description{
+    padding-top: 50px;
+}
+
+.footer-content{
+    padding-top: 25px;
+}
