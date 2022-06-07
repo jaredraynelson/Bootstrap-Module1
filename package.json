@@ -1,0 +1,21 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Applying all I learned in module 1",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaredraynelson/Bootstrap-Module1.git"
+  },
+  "author": "Jared Ray Nelson",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
